@@ -1,0 +1,10 @@
+170505 13:53:02  InnoDB: Started; log sequence number 0 43655
+170505 13:53:02 [Note] doliwampmysqld: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+170505 13:53:40 [Note] doliwampmysqld: Normal shutdown
+
+170505 13:53:40  InnoDB: Starting shutdown...
+170505 13:53:43  InnoDB: Shutdown completed; log sequence number 0 43655
+170505 13:53:43 [Note] doliwampmysqld: Shutdown complete
+
+170505 13:53:46  InnoDB: Started; log sequence number 0 43655
