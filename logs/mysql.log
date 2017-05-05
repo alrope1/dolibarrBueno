@@ -8,3 +8,42 @@ Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition 
 170505 13:53:43 [Note] doliwampmysqld: Shutdown complete
 
 170505 13:53:46  InnoDB: Started; log sequence number 0 43655
+170505 16:11:44  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+170505 16:11:45  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 7542426.
+InnoDB: Doing recovery: scanned up to log sequence number 0 7542426
+170505 16:11:45  InnoDB: Started; log sequence number 0 7542426
+170505 16:11:45 [Note] doliwampmysqld: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+170505 16:13:23 [Note] doliwampmysqld: Normal shutdown
+
+170505 16:13:23  InnoDB: Starting shutdown...
+170505 16:13:24  InnoDB: Shutdown completed; log sequence number 0 7542426
+170505 16:13:24 [Note] doliwampmysqld: Shutdown complete
+
+170505 16:14:34  InnoDB: Started; log sequence number 0 7542426
+170505 16:14:36 [Note] doliwampmysqld: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+170505 16:19:17 [ERROR] doliwampmysqld: Table 'user' is marked as crashed and should be repaired
+170505 16:19:17 [ERROR] doliwampmysqld: Sort aborted
+170505 16:21:48 [Note] doliwampmysqld: Normal shutdown
+
+170505 16:21:48  InnoDB: Starting shutdown...
+170505 16:21:50  InnoDB: Shutdown completed; log sequence number 0 7542426
+170505 16:21:50 [Note] doliwampmysqld: Shutdown complete
+
+170505 16:22:18  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+170505 16:22:18  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 8222688.
+InnoDB: Doing recovery: scanned up to log sequence number 0 8222688
+170505 16:22:18  InnoDB: Started; log sequence number 0 8222688
+170505 16:22:18 [Note] doliwampmysqld: ready for connections.
+Version: '5.0.45-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)

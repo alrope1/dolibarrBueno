@@ -3,3 +3,5 @@
 [05-May-2017 12:00:01 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'admin'@'localhost' (using password: YES) in C:\dolibarr\www\dolibarr\htdocs\core\db\mysqli.class.php on line 188
 [05-May-2017 12:00:27 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'admin'@'localhost' (using password: YES) in C:\dolibarr\www\dolibarr\htdocs\core\db\mysqli.class.php on line 188
 [05-May-2017 12:00:52 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'admin'@'localhost' (using password: YES) in C:\dolibarr\www\dolibarr\htdocs\core\db\mysqli.class.php on line 188
+[05-May-2017 14:17:38 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'dolibarrmysql'@'localhost' (using password: YES) in C:\dolibarr\www\dolibarr\htdocs\core\db\mysqli.class.php on line 188
+[05-May-2017 14:18:18 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'dolibarrmysql'@'localhost' (using password: YES) in C:\dolibarr\www\dolibarr\htdocs\core\db\mysqli.class.php on line 188
