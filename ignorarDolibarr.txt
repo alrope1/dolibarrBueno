@@ -1,0 +1,14 @@
+git rm --cached bin/apache/apache2.4.9/logs/httpd.pid
+git rm --cached bin/mysql/data/ib_logfile0
+git rm --cached bin/mysql/data/ibdata1
+git rm --cached dolibarr_documents/dolibarr.log
+git rm --cached dolibarr_documents/users/temp/FactureStats_getAllByProductEntry_customer_es_ES_entity.1_user1.cache
+git rm --cached dolibarr_documents/users/temp/FactureStats_getAmountByMonthWithPrevYear_customer_es_ES_entity.1_user1.cache
+git rm --cached doliwamp.log
+git rm --cached logs/access.log
+git rm --cached logs/apache_error.log
+git rm --cached logs/mysql.log
+git rm --cached www/dolibarr/htdocs/includes/mike42/escpos-php/test/integration/resources/output/interface.bin
+git rm --cached www/dolibarr/htdocs/includes/tecnickcom/tcpdf/fonts/freefont-20120503/CREDITS
+git rm -r --cached /c/dolibarr/tmp/
+git rm -r --cached /c/dolibarr/logs/
