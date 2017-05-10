@@ -34,3 +34,74 @@ pm_winnt:notice] [pid 2464:tid 296] AH00354: Child: Starting 250 worker threads.
 [Fri May 05 16:22:21.623451 2017] [core:notice] [pid 3868:tid 360] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.9\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.9'
 [Fri May 05 16:22:21.623451 2017] [mpm_winnt:notice] [pid 3868:tid 360] AH00418: Parent: Created child process 724
 [Fri May 05 16:22:22.107051 2017] [mpm_winnt:notice] [pid 724:tid 292] AH00354: Child: Starting 250 worker threads.
+[Tue May 09 16:05:36.829801 2017] [core:warn] [pid 3728:tid 160] AH00098: pid file C:/dolibarr/bin/apache/apache2.4.9/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue May 09 16:05:36.884805 2017] [mpm_winnt:notice] [pid 3728:tid 160] AH00455: Apache/2.4.9 (Win32) PHP/5.5.12 configured -- resuming normal operations
+[Tue May 09 16:05:36.884805 2017] [mpm_winnt:notice] [pid 3728:tid 160] AH00456: Apache Lounge VC11 Server built: Mar 16 2014 12:13:13
+[Tue May 09 16:05:36.884805 2017] [core:notice] [pid 3728:tid 160] AH00094: Command line: 'C:\\dolibarr\\bin\\apache\\apache2.4.9\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.9'
+[Tue May 09 16:05:36.885805 2017] [mpm_winnt:notice] [pid 3728:tid 160] AH00418: Parent: Created child process 2844
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 2844:tid 284] AH00354: Child: Starting 250 worker threads.
+[Tue May 09 16:29:19.403168 2017] [mpm_winnt:notice] [pid 3728:tid 160] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue May 09 16:29:21.405282 2017] [mpm_winnt:notice] [pid 2844:tid 284] AH00364: Child: All worker threads have exited.
+[Tue May 09 16:29:21.582293 2017] [mpm_winnt:notice] [pid 3728:tid 160] AH00430: Parent: Child process 2844 exited successfully.
+[Tue May 09 16:29:25.441513 2017] [mpm_winnt:notice] [pid 5892:tid 384] AH00455: Apache/2.4.9 (Win32) PHP/5.5.12 configured -- resuming normal operations
+[Tue May 09 16:29:25.441513 2017] [mpm_winnt:notice] [pid 5892:tid 384] AH00456: Apache Lounge VC11 Server built: Mar 16 2014 12:13:13
+[Tue May 09 16:29:25.441513 2017] [core:notice] [pid 5892:tid 384] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.9\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.9'
+[Tue May 09 16:29:25.442513 2017] [mpm_winnt:notice] [pid 5892:tid 384] AH00418: Parent: Created child process 5572
+[Tue May 09 16:29:25.773532 2017] [mpm_winnt:notice] [pid 5572:tid 288] AH00354: Child: Starting 250 worker threads.
+[Tue May 09 17:27:18.487805 2017] [mpm_winnt:notice] [pid 5892:tid 384] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue May 09 17:27:20.515808 2017] [mpm_winnt:notice] [pid 5572:tid 288] AH00364: Child: All worker threads have exited.
+[Tue May 09 17:27:20.531408 2017] [mpm_winnt:notice] [pid 5892:tid 384] AH00430: Parent: Child process 5572 exited successfully.
+[Tue May 09 17:59:12.428265 2017] [mpm_winnt:notice] [pid 1276:tid 384] AH00455: Apache/2.4.9 (Win32) PHP/5.5.12 configured -- resuming normal operations
+[Tue May 09 17:59:12.428265 2017] [mpm_winnt:notice] [pid 1276:tid 384] AH00456: Apache Lounge VC11 Server built: Mar 16 2014 12:13:13
+[Tue May 09 17:59:12.428265 2017] [core:notice] [pid 1276:tid 384] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.9\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.9'
+[Tue May 09 17:59:12.740265 2017] [mpm_winnt:notice] [pid 1276:tid 384] AH00418: Parent: Created child process 1764
+[Tue May 09 17:59:13.286266 2017] [mpm_winnt:notice] [pid 1764:tid 288] AH00354: Child: Starting 250 worker threads.
+[Tue May 09 18:02:02.565564 2017] [mpm_winnt:notice] [pid 1276:tid 384] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue May 09 18:02:04.593568 2017] [mpm_winnt:notice] [pid 1764:tid 288] AH00364: Child: All worker threads have exited.
+[Tue May 09 18:02:04.843168 2017] [mpm_winnt:notice] [pid 1276:tid 384] AH00430: Parent: Child process 1764 exited successfully.
+[Tue May 09 18:02:56.467838 2017] [mpm_winnt:notice] [pid 1236:tid 384] AH00455: Apache/2.4.9 (Win32) PHP/5.5.12 configured -- resuming normal operations
+[Tue May 09 18:02:56.483438 2017] [mpm_winnt:notice] [pid 1236:tid 384] AH00456: Apache Lounge VC11 Server built: Mar 16 2014 12:13:13
+[Tue May 09 18:02:56.483438 2017] [core:notice] [pid 1236:tid 384] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.9\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.9'
+[Tue May 09 18:02:56.514638 2017] [mpm_winnt:notice] [pid 1236:tid 384] AH00418: Parent: Created child process 1664
+[Tue May 09 18:02:56.998239 2017] [mpm_winnt:notice] [pid 1664:tid 288] AH00354: Child: Starting 250 worker threads.
+[Tue May 09 18:06:04.111968 2017] [mpm_winnt:notice] [pid 1236:tid 384] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue May 09 18:06:06.139972 2017] [mpm_winnt:notice] [pid 1664:tid 288] AH00364: Child: All worker threads have exited.
+[Tue May 09 18:06:06.342772 2017] [mpm_winnt:notice] [pid 1236:tid 384] AH00430: Parent: Child process 1664 exited successfully.
+[Tue May 09 18:06:59.499235 2017] [mpm_winnt:notice] [pid 1208:tid 384] AH00455: Apache/2.4.9 (Win32) PHP/5.5.12 configured -- resuming normal operations
+[Tue May 09 18:06:59.499235 2017] [mpm_winnt:notice] [pid 1208:tid 384] AH00456: Apache Lounge VC11 Server built: Mar 16 2014 12:13:13
+[Tue May 09 18:06:59.499235 2017] [core:notice] [pid 1208:tid 384] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.9\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.9'
+[Tue May 09 18:06:59.514835 2017] [mpm_winnt:notice] [pid 1208:tid 384] AH00418: Parent: Created child process 1356
+[Tue May 09 18:06:59.970236 2017] [mpm_winnt:notice] [pid 1356:tid 288] AH00354: Child: Starting 250 worker threads.
+[Tue May 09 18:09:20.423283 2017] [mpm_winnt:notice] [pid 1208:tid 384] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue May 09 18:09:22.451286 2017] [mpm_winnt:notice] [pid 1356:tid 288] AH00364: Child: All worker threads have exited.
+[Tue May 09 18:09:22.622887 2017] [mpm_winnt:notice] [pid 1208:tid 384] AH00430: Parent: Child process 1356 exited successfully.
+[Tue May 09 18:10:16.653440 2017] [mpm_winnt:notice] [pid 1208:tid 384] AH00455: Apache/2.4.9 (Win32) PHP/5.5.12 configured -- resuming normal operations
+[Tue May 09 18:10:16.669040 2017] [mpm_winnt:notice] [pid 1208:tid 384] AH00456: Apache Lounge VC11 Server built: Mar 16 2014 12:13:13
+[Tue May 09 18:10:16.669040 2017] [core:notice] [pid 1208:tid 384] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.9\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.9'
+[Tue May 09 18:10:16.856241 2017] [mpm_winnt:notice] [pid 1208:tid 384] AH00418: Parent: Created child process 1612
+[Tue May 09 18:10:17.371042 2017] [mpm_winnt:notice] [pid 1612:tid 288] AH00354: Child: Starting 250 worker threads.
+[Tue May 09 18:24:31.764822 2017] [mpm_winnt:notice] [pid 1208:tid 384] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue May 09 18:24:33.792825 2017] [mpm_winnt:notice] [pid 1612:tid 288] AH00364: Child: All worker threads have exited.
+[Tue May 09 18:24:34.136026 2017] [mpm_winnt:notice] [pid 1208:tid 384] AH00430: Parent: Child process 1612 exited successfully.
+[Tue May 09 18:25:35.534062 2017] [mpm_winnt:notice] [pid 1448:tid 384] AH00455: Apache/2.4.9 (Win32) PHP/5.5.12 configured -- resuming normal operations
+[Tue May 09 18:25:35.534062 2017] [mpm_winnt:notice] [pid 1448:tid 384] AH00456: Apache Lounge VC11 Server built: Mar 16 2014 12:13:13
+[Tue May 09 18:25:35.534062 2017] [core:notice] [pid 1448:tid 384] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.9\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.9'
+[Tue May 09 18:25:35.549662 2017] [mpm_winnt:notice] [pid 1448:tid 384] AH00418: Parent: Created child process 1624
+[Tue May 09 18:25:36.220463 2017] [mpm_winnt:notice] [pid 1624:tid 288] AH00354: Child: Starting 250 worker threads.
+[Tue May 09 18:27:28.158660 2017] [mpm_winnt:notice] [pid 1448:tid 384] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue May 09 18:27:30.186664 2017] [mpm_winnt:notice] [pid 1624:tid 288] AH00364: Child: All worker threads have exited.
+[Tue May 09 18:27:30.451864 2017] [mpm_winnt:notice] [pid 1448:tid 384] AH00430: Parent: Child process 1624 exited successfully.
+[Tue May 09 18:28:24.441051 2017] [mpm_winnt:notice] [pid 1284:tid 384] AH00455: Apache/2.4.9 (Win32) PHP/5.5.12 configured -- resuming normal operations
+[Tue May 09 18:28:24.472251 2017] [mpm_winnt:notice] [pid 1284:tid 384] AH00456: Apache Lounge VC11 Server built: Mar 16 2014 12:13:13
+[Tue May 09 18:28:24.472251 2017] [core:notice] [pid 1284:tid 384] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.9\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.9'
+[Tue May 09 18:28:24.472251 2017] [mpm_winnt:notice] [pid 1284:tid 384] AH00418: Parent: Created child process 1816
+[Tue May 09 18:28:25.111852 2017] [mpm_winnt:notice] [pid 1816:tid 288] AH00354: Child: Starting 250 worker threads.
+[Tue May 09 20:11:52.134586 2017] [mpm_winnt:notice] [pid 1284:tid 384] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue May 09 20:11:54.141701 2017] [mpm_winnt:notice] [pid 1816:tid 288] AH00364: Child: All worker threads have exited.
+[Tue May 09 20:11:54.234706 2017] [mpm_winnt:notice] [pid 1284:tid 384] AH00430: Parent: Child process 1816 exited successfully.
+[Wed May 10 15:33:16.603444 2017] [mpm_winnt:notice] [pid 1252:tid 384] AH00455: Apache/2.4.9 (Win32) PHP/5.5.12 configured -- resuming normal operations
+[Wed May 10 15:33:16.619044 2017] [mpm_winnt:notice] [pid 1252:tid 384] AH00456: Apache Lounge VC11 Server built: Mar 16 2014 12:13:13
+[Wed May 10 15:33:16.619044 2017] [core:notice] [pid 1252:tid 384] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.9\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.9'
+[Wed May 10 15:33:16.619044 2017] [mpm_winnt:notice] [pid 1252:tid 384] AH00418: Parent: Created child process 1448
+[Wed May 10 15:33:17.211845 2017] [mpm_winnt:notice] [pid 1448:tid 288] AH00354: Child: Starting 250 worker threads.
