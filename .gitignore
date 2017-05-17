@@ -1,0 +1,16 @@
+
+bin/apache/apache2.4.9/logs/httpd.pid
+
+bin/mysql/data/Albert-PC.pid
+
+bin/mysql/data/ibdata1
+
+dolibarr_documents/dolibarr.log
+
+logs/access.log
+
+logs/apache_error.log
+
+logs/mysql.log
+
+tmp/sess_0jbaj9shd55efs16e8ubigjjs0
